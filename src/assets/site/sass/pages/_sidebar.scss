@@ -1,0 +1,27 @@
+
+.bl-sidebar{
+    .bl-topten {
+        .nav-link{
+            &.active{
+                // color: #007bff !important;
+            }
+        }
+        .tab-pane {
+            font-size: 13px !important;
+    
+            .text-1 {
+                display: block;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                max-width: 200px;
+            }
+    
+            @media only screen and (max-width: 1200px) {
+                a.text-1 {
+                    max-width: 150px;
+                }
+            }
+        }
+    }
+}

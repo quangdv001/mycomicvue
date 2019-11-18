@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    height: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+@import './pages/header';
+@import './pages/sidebar';
+@import './pages/index';
+@import './pages/detail';
