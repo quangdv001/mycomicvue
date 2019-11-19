@@ -3,7 +3,7 @@
       <b-row>
         <b-col>
           <template>
-            <b-breadcrumb :items="items"></b-breadcrumb>
+            <b-breadcrumb :items="items" class="bg-white"></b-breadcrumb>
           </template>
         </b-col>
       </b-row>

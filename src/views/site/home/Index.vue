@@ -6,7 +6,7 @@
             <div class="bl-home">
               <div class="bl-list">
                 <div class="bl-comic bg-white mb-3">
-                  <div class="bl-top p-2">
+                  <div class="bl-top p-2 text-left">
                     <a href="#" style="text-decoration: none;">
                       <div class="row">
                         <div class="col-12 d-block d-lg-none">
@@ -61,7 +61,7 @@
                   </div>
                 </div>
                 <div class="bl-comic bg-white mb-3">
-                  <div class="bl-top p-2">
+                  <div class="bl-top p-2 text-left">
                     <a href="#" style="text-decoration: none;">
                       <div class="row">
                         <div class="col-12 d-block d-lg-none">
@@ -116,7 +116,7 @@
                   </div>
                 </div>
                 <div class="bl-comic bg-white mb-3">
-                  <div class="bl-top p-2">
+                  <div class="bl-top p-2 text-left">
                     <a href="#" style="text-decoration: none;">
                       <div class="row">
                         <div class="col-12 d-block d-lg-none">
